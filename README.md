@@ -21,10 +21,17 @@
 
 
 🛠 Технологии
-Модель: Gemma 2B
-Метрики: rouge-score / BLEU
-Язык: Python 3.10+
-Инструменты: Pandas, NumPy, Torch, Transformers, Jupyter Notebook
+
+
+- Модель: Gemma 2B  
+- Метрики: ROUGE, BLEU  
+- Язык: Python 3.10+  
+- Инструменты:  
+  - Pandas  
+  - NumPy  
+  - PyTorch  
+  - Transformers  
+  - Jupyter Notebook
 
 
 📊 Результы:
